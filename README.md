@@ -34,3 +34,6 @@ When you open an issue, we'll ask you a few simple questions to help us understa
 
 *This repository is the public-facing support channel for the private [uicnz/aria](https://github.com/uicnz/aria) codebase.*
 
+# aria-platform
+
+[General discussion, requests, and issues](https://github.com/uicnz/aria-platform/discussions)
