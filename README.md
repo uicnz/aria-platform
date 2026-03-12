@@ -4,10 +4,10 @@ Welcome! This is the public support and community space for the **Aria Platform*
 
 Whether you're a day-to-day user, a partner, or just getting started, this is the right place to:
 
-- 💬 **[Start a discussion](../../discussions)** – share ideas, ask questions, or connect with others
-- 🐛 **[Report a problem](../../issues/new/choose)** – something not working as expected? Let us know
-- ✨ **[Request a feature](../../issues/new/choose)** – tell us what would make Aria better for you
-- 📖 **[Browse the wiki](../../wiki)** – guides, FAQs, and helpful information
+- **[Start a discussion](../../discussions)** – share ideas, ask questions, or connect with others
+- **[Report a problem](../../issues/new/choose)** – something not working as expected? Let us know
+- **[Request a feature](../../issues/new/choose)** – tell us what would make Aria better for you
+- **[Browse the wiki](../../wiki)** – guides, FAQs, and helpful information
 
 ---
 
