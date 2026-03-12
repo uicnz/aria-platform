@@ -1,0 +1,56 @@
+name: ✨ Feature Request or Wish
+description: Have an idea that would make Aria better? We'd love to hear it!
+title: "[Request] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your ideas help shape the future of Aria! Whether it's a small improvement or a big new feature, we want to hear what would make your experience better. No technical knowledge needed — just tell us what you're thinking.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What's your idea?
+      description: Describe the feature or improvement you'd like to see. What should Aria be able to do?
+      placeholder: "Example: I wish I could export my data to a spreadsheet so I can share it with my team."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve for you?
+      description: Help us understand *why* this is important. What challenge are you facing right now, or what would this make easier?
+      placeholder: "Example: Right now I have to copy everything by hand, which takes a long time and I sometimes make mistakes."
+    validations:
+      required: false
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Is there something you do instead right now?
+      description: If you have a workaround or manual process, let us know. This helps us understand the impact.
+      placeholder: "Example: I currently copy and paste each item one by one into a spreadsheet."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: importance
+    attributes:
+      label: How important is this to you?
+      options:
+        - "Critical – I really need this to do my work"
+        - "High – It would make a big difference"
+        - "Medium – It would be a nice improvement"
+        - "Low – Just a small nice-to-have"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Any other thoughts?
+      description: Anything else you'd like to share — examples, sketches, or references to other tools that do something similar.
+    validations:
+      required: false

@@ -1,0 +1,61 @@
+name: 🐛 Report a Problem
+description: Something isn't working the way you expect? Tell us about it.
+title: "[Problem] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to let us know about a problem. Don't worry about using technical language — just describe what happened in your own words. Every report helps us improve Aria!
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What went wrong?
+      description: Tell us what happened. What were you trying to do, and what did you see instead?
+      placeholder: "Example: I tried to save my work and got an error message saying 'Something went wrong'. I expected it to save normally."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      description: If you can, walk us through the steps that led to the problem. Don't worry if you can't remember every step.
+      placeholder: |
+        1. I went to...
+        2. I clicked on...
+        3. Then this happened...
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      description: What were you hoping or expecting would happen instead?
+      placeholder: "Example: I expected my changes to be saved and to see a confirmation message."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often does this happen?
+      options:
+        - Every time I try
+        - Most of the time
+        - Sometimes
+        - It only happened once
+        - Not sure
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else we should know?
+      description: Add any other details, screenshots, or context that might help us — for example, what device or browser you were using.
+      placeholder: "Example: I was using Chrome on a Windows laptop."
+    validations:
+      required: false
