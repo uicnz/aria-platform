@@ -1,0 +1,38 @@
+name: General Feedback
+description: Share your thoughts, experiences, or suggestions about the Aria platform — anything goes!
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We love hearing from our users! Whether it's something you love, something that frustrates you, or just a general thought — please share. There are no wrong answers here.
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What's on your mind?
+      description: Tell us whatever you'd like — your experience, what's working, what's not, or what you'd love to see.
+      placeholder: "Example: I really enjoy how easy it is to get started, but I sometimes find the navigation confusing when I have a lot of projects open."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sentiment
+    attributes:
+      label: Overall, how do you feel about this?
+      options:
+        - "😊 Positive – I'm happy with things overall"
+        - "😐 Neutral – It's okay, could be better"
+        - "😕 Frustrated – Something is making my experience difficult"
+        - "🤔 Just a thought or suggestion"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else?
+      description: Any extra context, examples, or details you'd like to add.
+    validations:
+      required: false
