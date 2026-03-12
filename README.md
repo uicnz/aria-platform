@@ -5,7 +5,7 @@
 
 ## Aria Platform – Support & Discussion
 
-Welcome! This is the support space for the **Aria Platform**.
+Welcome! This is a support space for all things **Aria**.
 
 - **[Start a discussion](../../discussions)** – share ideas, ask questions, or connect with others
 - **[Report a problem](../../issues/new/choose)** – something not working as expected? Let us know
@@ -14,9 +14,9 @@ Welcome! This is the support space for the **Aria Platform**.
 
 ---
 
-If something is confusing, frustrating, or missing, please share.
+If something is weird, difficult, or broken, please share.
 
-When you open an issue, we'll ask you a few simple questions to help understand. There are no wrong answers.
+When you open an issue, there's a few basic questions to understand. There's no wrong bad questions.
 
 ---
 
