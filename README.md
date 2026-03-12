@@ -1,2 +1,3 @@
 # aria-platform
-This is used for general discussion, requests, and issues. 
+
+[General discussion, requests, and issues](https://github.com/uicnz/aria-platform/discussions)
