@@ -1,4 +1,9 @@
-# Aria Platform – Support & Discussion
+
+# aria-platform
+
+[General discussion, requests, and issues](https://github.com/uicnz/aria-platform/discussions)
+
+## Aria Platform – Support & Discussion
 
 Welcome! This is the public support and community space for the **Aria Platform**.
 
@@ -33,7 +38,3 @@ When you open an issue, we'll ask you a few simple questions to help us understa
 ---
 
 *This repository is the public-facing support channel for the private [uicnz/aria](https://github.com/uicnz/aria) codebase.*
-
-# aria-platform
-
-[General discussion, requests, and issues](https://github.com/uicnz/aria-platform/discussions)
