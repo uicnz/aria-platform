@@ -5,9 +5,7 @@
 
 ## Aria Platform – Support & Discussion
 
-Welcome! This is the public support and community space for the **Aria Platform**.
-
-Whether you're a day-to-day user, a partner, or just getting started, this is the right place to:
+Welcome! This is the support space for the **Aria Platform**.
 
 - **[Start a discussion](../../discussions)** – share ideas, ask questions, or connect with others
 - **[Report a problem](../../issues/new/choose)** – something not working as expected? Let us know
@@ -16,12 +14,9 @@ Whether you're a day-to-day user, a partner, or just getting started, this is th
 
 ---
 
-## You don't need to be technical to contribute here
+If something is confusing, frustrating, or missing, please share.
 
-We want to hear from **everyone** who uses the Aria platform — no technical background required.  
-If something is confusing, frustrating, exciting, or missing, please tell us. Your voice matters.
-
-When you open an issue, we'll ask you a few simple questions to help us understand your situation. There are no wrong answers — just write in your own words.
+When you open an issue, we'll ask you a few simple questions to help us understand your situation. There are no wrong answers.
 
 ---
 
