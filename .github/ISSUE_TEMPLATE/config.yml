@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 💬 Start a Discussion
+  - name: Start a Discussion
     url: https://github.com/uicnz/aria-platform/discussions
     about: Ask questions, share ideas, or connect with others in our community.
-  - name: 📖 Browse the Wiki
+  - name: Browse the Wiki
     url: https://github.com/uicnz/aria-platform/wiki
     about: Find guides, FAQs, and helpful information about using Aria.
