@@ -16,7 +16,7 @@ Welcome! This is the support space for the **Aria Platform**.
 
 If something is confusing, frustrating, or missing, please share.
 
-When you open an issue, we'll ask you a few simple questions to help us understand your situation. There are no wrong answers.
+When you open an issue, we'll ask you a few simple questions to help understand. There are no wrong answers.
 
 ---
 
